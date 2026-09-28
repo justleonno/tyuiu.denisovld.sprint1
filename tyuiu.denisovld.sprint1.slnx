@@ -1,7 +1,12 @@
 <Solution>
   <Folder Name="/task0/">
-    <Project Path="tyuiu.denisovld.sprint1.task0.v0.1/tyuiu.denisovld.sprint1.task0.v0.csproj" Id="f71c7405-9ba3-44e7-9ac3-62d82ec45f6a" />
-    <Project Path="tyuiu.denisovld.sprint1.task0.v0.Lib/tyuiu.denisovld.sprint1.task0.v0.Lib.csproj" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
-    <Project Path="tyuiu.denisovld.sprint1.task0.v0.Test/tyuiu.denisovld.sprint1.task0.v0.Test.csproj" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
+    <Project Path="tyuiu.denisovld.sprint1.task0.v0.1/tyuiu.denisovld.sprint1.task0.v27.csproj" Id="f71c7405-9ba3-44e7-9ac3-62d82ec45f6a" />
+    <Project Path="tyuiu.denisovld.sprint1.task0.v0.Lib/tyuiu.denisovld.sprint1.task0.v27.Lib.csproj" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
+    <Project Path="tyuiu.denisovld.sprint1.task0.v0.Test/tyuiu.denisovld.sprint1.task0.v27.Test.csproj" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
+  </Folder>
+  <Folder Name="/task1/">
+    <Project Path="tyuiu.denisovld.sprint1.task1.lib/tyuiu.denisovld.sprint1.task1.lib.csproj" Id="00e935c6-4571-4367-8fe6-1ef73f3682ae" />
+    <Project Path="tyuiu.denisovld.sprint1.task1.test/tyuiu.denisovld.sprint1.task1.test.csproj" Id="91b04d77-12b0-4ab8-8af1-3cd415a9d7bc" />
+    <Project Path="tyuiu.denisovld.sprint1.task1/tyuiu.denisovld.sprint1.task1.csproj" Id="78965609-f10c-423b-a173-fb7f5674ef3e" />
   </Folder>
 </Solution>

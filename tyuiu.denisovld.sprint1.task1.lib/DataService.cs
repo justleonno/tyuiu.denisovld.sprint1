@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace tyuiu.denisovld.sprint1.task0.v27.Lib
+namespace tyuiu.denisovld.sprint1.task1.lib
 {
-    public class DataService : ISprint1Task0V27
+    public class DataService
     {
-        public double Calculate()
-        {
-            return 5 * 2 + 4 * 3;
-        }
+
     }
 }
