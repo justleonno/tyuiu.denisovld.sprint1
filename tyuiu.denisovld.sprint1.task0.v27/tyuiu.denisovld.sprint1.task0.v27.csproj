@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\tyuiu.denisovld.sprint1.task0.v0.Lib\tyuiu.denisovld.sprint1.task0.v27.Lib.csproj">
+    <ProjectReference Include="..\tyuiu.denisovld.sprint1.task0.v27.Lib\tyuiu.denisovld.sprint1.task0.v27.Lib.csproj">
       <Project>{cc36d2a3-f54b-4fcd-bff6-409269b60ea4}</Project>
       <Name>tyuiu.denisovld.sprint1.task0.v27.Lib</Name>
     </ProjectReference>
