@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("tyuiu.denisovld.sprint1.task1.lib")]
+[assembly: AssemblyTitle("tyuiu.denisovld.sprint1.Task1.V6.Lib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("tyuiu.denisovld.sprint1.task1.lib")]
+[assembly: AssemblyProduct("tyuiu.denisovld.sprint1.Task1.V6.Lib")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("00e935c6-4571-4367-8fe6-1ef73f3682ae")]
+[assembly: Guid("ef1cd841-b105-4649-bdf4-cb686033d6ae")]
 
 // Version information for an assembly consists of the following four values:
 //
