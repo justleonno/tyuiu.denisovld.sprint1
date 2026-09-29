@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//lol
 using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace tyuiu.denisovld.sprint1.task0.v27.Lib
