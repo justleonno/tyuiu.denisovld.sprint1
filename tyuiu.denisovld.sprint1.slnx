@@ -1,12 +1,17 @@
 <Solution>
   <Folder Name="/task0/">
-    <Project Path="tyuiu.denisovld.sprint1.task0.v27.Lib/tyuiu.denisovld.sprint1.task0.v27.Lib.csproj" DisplayName="tyuiu.denisovld.sprint1.Task0.V27.Lib" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
-    <Project Path="tyuiu.denisovld.sprint1.task0.v27.Test/tyuiu.denisovld.sprint1.task0.v27.Test.csproj" DisplayName="tyuiu.denisovld.sprint1.Task0.V27.Test" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
-    <Project Path="tyuiu.denisovld.sprint1.task0.v27/tyuiu.denisovld.sprint1.task0.v27.csproj" DisplayName="tyuiu.denisovld.sprint1.Task0.V27" Id="f71c7405-9ba3-44e7-9ac3-62d82ec45f6a" />
+    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Lib/tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
+    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Test/tyuiu.denisovld.sprint1.task0.v27.Test.csproj" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
+    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27/tyuiu.denisovld.sprint1.Task0.V27.csproj" Id="f71c7405-9ba3-44e7-9ac3-62d82ec45f6a" />
   </Folder>
   <Folder Name="/task1/">
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6.Lib/tyuiu.denisovld.sprint1.Task1.V6.Lib.csproj" Id="ef1cd841-b105-4649-bdf4-cb686033d6ae" />
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6.Test/tyuiu.denisovld.sprint1.Task1.V6.Test.csproj" Id="8f4fd227-94ab-4ac5-9ecb-be6ae66bca48" />
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6/tyuiu.denisovld.sprint1.Task1.V6.csproj" Id="c2207821-1708-46d5-b55c-35c7d47b7be6" />
+  </Folder>
+  <Folder Name="/task2/">
+    <Project Path="tyuiu.denisovld.sprint1.Task2.V3.Lib/tyuiu.denisovld.sprint1.Task2.V3.Lib.csproj" Id="4ad3b667-d4b6-4d08-8e0c-f50f4358435e" />
+    <Project Path="tyuiu.denisovld.sprint1.Task2.V3.Test/tyuiu.denisovld.sprint1.Task2.V3.Test.csproj" Id="4c600525-be03-4b4a-b038-27c17bb7a549" />
+    <Project Path="tyuiu.denisovld.sprint1.Task2.V3/tyuiu.denisovld.sprint1.Task2.V3.csproj" Id="145a2616-10fd-4c00-aefd-4ab438a4c504" />
   </Folder>
 </Solution>
