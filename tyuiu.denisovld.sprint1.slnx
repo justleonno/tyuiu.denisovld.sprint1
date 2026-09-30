@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/deps/">
+    <File Path="DLL/tyuiu.cources.programming.interfaces.dll" />
+  </Folder>
   <Folder Name="/task0/">
     <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Lib/tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
     <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Test/tyuiu.denisovld.sprint1.task0.v27.Test.csproj" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
