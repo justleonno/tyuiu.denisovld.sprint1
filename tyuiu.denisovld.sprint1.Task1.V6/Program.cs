@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-using tyuiu.denisovld.sprint1.Task1.V6.Lib;
+﻿using tyuiu.denisovld.sprint1.Task1.V6.Lib;
 namespace tyuiu.denisovld.sprint1.Task1.V6
 {
     internal class Program
