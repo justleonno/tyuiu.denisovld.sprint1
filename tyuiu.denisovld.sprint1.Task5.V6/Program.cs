@@ -30,4 +30,11 @@ Console.WriteLine("*************************************************************
 Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                    *");
 Console.WriteLine("*************************************************************************************************");
 
-Console.WriteLine("Номер дня недели = " + ds.Calculate(k));
+if (ds.Calculate(k) == -1)
+    {
+    Console.WriteLine("Введено число вне диапазона!");
+    }
+else
+{
+    Console.WriteLine("Номер дня недели = " + ds.Calculate(k));
+}
