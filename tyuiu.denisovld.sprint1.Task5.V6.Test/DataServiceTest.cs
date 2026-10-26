@@ -1,10 +1,12 @@
 namespace tyuiu.denisovld.sprint1.Task5.V6.Test;
-using tyuiu.cources.programming.interfaces.Sprint1;
+
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using tyuiu.denisovld.sprint1.Task5.V6.Lib;
 
+[TestClass]
 public class DataServiceTest
     {
-        [Fact]
+        [TestMethod]
         public void Test1()
         {
             DataService ds = new DataService();
@@ -12,8 +14,8 @@ public class DataServiceTest
             int k2 = 56;
             var res = ds.Calculate(k);
             var res2 = ds.Calculate(k2);
-            Assert.Equal(5, res);
-            Assert.Equal(7, res2);
+            Assert.AreEqual(5, res);
+            Assert.AreEqual(7, res2);
 
     }
     }

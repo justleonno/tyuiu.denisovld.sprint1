@@ -1,8 +1,12 @@
 namespace tyuiu.denisovld.sprint1.Task6.V4.Test;
+
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using tyuiu.denisovld.sprint1.Task6.V4.Lib;
+
+    [TestClass]
     public class DataServiceTest
     {
-        [Fact]
+        [TestMethod]
         public void Test1()
         {
             DataService ds = new DataService();
@@ -11,7 +15,7 @@ using tyuiu.denisovld.sprint1.Task6.V4.Lib;
         //string lol = "annanas ananas anannas ananananan anananann";
         //string exp = "annanas anannas anananann";
         string res = ds.CheckDoubleN(lol);
-        Assert.Equal(exp, res);
+        Assert.AreEqual(exp, res);
 
         }
     }
