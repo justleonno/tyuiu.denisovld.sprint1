@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 using tyuiu.denisovld.sprint1.Task2.V3.Lib;
 
 namespace tyuiu.denisovld.sprint1.Task2.V3.Test

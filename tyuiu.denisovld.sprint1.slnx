@@ -3,9 +3,9 @@
     <File Path="DLL/tyuiu.cources.programming.interfaces.dll" />
   </Folder>
   <Folder Name="/task0/">
-    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Lib/tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" Id="cc36d2a3-f54b-4fcd-bff6-409269b60ea4" />
-    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27.Test/tyuiu.denisovld.sprint1.task0.v27.Test.csproj" Id="c235fc10-3dca-4785-84ce-7a7f7388380a" />
-    <Project Path="../../../Desktop/tyuiu.denisovld.sprint1.Task0.V27/tyuiu.denisovld.sprint1.Task0.V27.csproj" Id="f71c7405-9ba3-44e7-9ac3-62d82ec45f6a" />
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27.Lib/tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" Id="3d626fc0-0b87-43af-bad0-914388977805" />
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27.Test/tyuiu.denisovld.sprint1.Task0.V27.Test.csproj" Id="e520af26-174f-4b33-bebb-49a5c61134f3" />
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27/tyuiu.denisovld.sprint1.Task0.V27.csproj" Id="12af1963-a435-4419-8f9b-6de6179f881c" />
   </Folder>
   <Folder Name="/task1/">
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6.Lib/tyuiu.denisovld.sprint1.Task1.V6.Lib.csproj" Id="ef1cd841-b105-4649-bdf4-cb686033d6ae" />
