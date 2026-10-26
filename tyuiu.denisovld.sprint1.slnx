@@ -2,6 +2,11 @@
   <Folder Name="/deps/">
     <File Path="DLL/tyuiu.cources.programming.interfaces.dll" />
   </Folder>
+  <Folder Name="/task0/">
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27.Lib/tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" Id="8228c0ef-4d14-4dc6-b003-3fff1094f6cc" />
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27.Test/tyuiu.denisovld.sprint1.Task0.V27.Test.csproj" Id="a1e7fe20-4632-4b6e-ad09-48336440e7c6" />
+    <Project Path="tyuiu.denisovld.sprint1.Task0.V27/tyuiu.denisovld.sprint1.Task0.V27.csproj" Id="5f4e5920-cc77-48b0-87e6-a310cf62afb3" />
+  </Folder>
   <Folder Name="/task1/">
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6.Lib/tyuiu.denisovld.sprint1.Task1.V6.Lib.csproj" Id="ef1cd841-b105-4649-bdf4-cb686033d6ae" />
     <Project Path="tyuiu.denisovld.sprint1.Task1.V6.Test/tyuiu.denisovld.sprint1.Task1.V6.Test.csproj" Id="8f4fd227-94ab-4ac5-9ecb-be6ae66bca48" />

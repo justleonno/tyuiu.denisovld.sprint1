@@ -1,0 +1,16 @@
+﻿<Project Sdk="MSTest.Sdk/4.0.2">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<EnableMSTestRunner>false</EnableMSTestRunner>
+    <UseVSTest>true</UseVSTest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\tyuiu.denisovld.sprint1.Task0.V27.Lib\tyuiu.denisovld.sprint1.Task0.V27.Lib.csproj" />
+  </ItemGroup>
+
+</Project>
