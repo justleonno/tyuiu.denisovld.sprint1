@@ -1,7 +1,5 @@
 ﻿namespace tyuiu.denisovld.sprint1.Task5.V6.Lib;
 
-using System.ComponentModel.Design;
-using System.Globalization;
 using tyuiu.cources.programming.interfaces.Sprint1;
 public class DataService 
 {

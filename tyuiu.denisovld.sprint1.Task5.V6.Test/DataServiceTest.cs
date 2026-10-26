@@ -17,5 +17,5 @@ public class DataServiceTest
             Assert.AreEqual(5, res);
             Assert.AreEqual(7, res2);
 
-    }
+        }
     }
